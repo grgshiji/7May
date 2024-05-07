@@ -1,0 +1,16 @@
+{
+  "name": "7May",
+  "type": "package",
+  "blockId": "ngWStAnsA8agtzf9J3IAt",
+  "source": {
+    "https": "https://github.com/grgshiji/7May.git",
+    "ssh": "git@github.com:grgshiji/7May.git",
+    "branch": "block_7May"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
